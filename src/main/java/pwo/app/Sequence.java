@@ -1,5 +1,9 @@
 package pwo.app;
 
+/**
+ * Merytoryczny komentarz dokumentacyjny 3
+ * @author kleszko1
+ */
 public class Sequence {
 
     public static void main(String[] args) {

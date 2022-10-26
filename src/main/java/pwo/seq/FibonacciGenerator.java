@@ -2,6 +2,10 @@ package pwo.seq;
 
 import java.math.BigDecimal;
 
+/**
+ * Bardzo proszę mocium panie
+ * @author kleszko1
+ */
 public class FibonacciGenerator extends Generator {
 
     public FibonacciGenerator() {

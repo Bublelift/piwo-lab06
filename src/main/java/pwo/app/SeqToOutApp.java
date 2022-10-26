@@ -2,6 +2,10 @@ package pwo.app;
 
 import pwo.utils.SequenceTools;
 
+/**
+ * Merytoryczny komentarz dokumentacyjny 2
+ * @author kleszko1
+ */
 public class SeqToOutApp extends SeqToFileApp {
 
     @Override

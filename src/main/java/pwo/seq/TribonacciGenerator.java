@@ -2,6 +2,10 @@ package pwo.seq;
 
 import java.math.BigDecimal;
 
+/**
+ * Jako ufność ku osobie waszmość pana
+ * @author kleszko1
+ */
 public class TribonacciGenerator extends FibonacciGenerator {
     public TribonacciGenerator() {
         f_3 = new BigDecimal(0);

@@ -5,6 +5,10 @@ import java.nio.file.Paths;
 import pwo.seq.SeqType;
 import pwo.utils.SequenceTools;
 
+/**
+ * Merytoryczny komentarz dokumentacyjny 1
+ * @author kleszko1
+ */
 public class SeqToFileApp {
 
     protected SeqType seqType = null;

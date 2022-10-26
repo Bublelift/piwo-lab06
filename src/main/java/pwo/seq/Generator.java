@@ -3,6 +3,10 @@ package pwo.seq;
 import java.math.BigDecimal;
 import pwo.utils.SequenceGenerator;
 
+/**
+ * Mocium panie, me wezwanie
+ * @author kleszko1
+ */
 public class Generator implements SequenceGenerator {
 
     protected int lastIndex = 0;
